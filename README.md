@@ -16,3 +16,6 @@ To run this project, ensure you have the following dependencies installed:
 
 ```bash
 pip install pandas numpy matplotlib seaborn scikit-learn keras
+```
+
+Happy Codding!
